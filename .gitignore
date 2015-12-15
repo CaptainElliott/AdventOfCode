@@ -52,5 +52,6 @@ pom.xml.next
 release.properties
 
 ## Directory-based project format
+.iml
 .idea/
-./out/
+out/
